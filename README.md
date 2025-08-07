@@ -41,3 +41,18 @@ npm install
 
 # 4. Run the app
 npm start
+
+
+
+
+
+
+
+Future Improvements
+🔍 AI-enhanced job description matching
+
+🌐 Multi-language resume support
+
+📊 Resume version comparison
+
+💾 Save/Export resume reports
